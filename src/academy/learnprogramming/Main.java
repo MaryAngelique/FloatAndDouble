@@ -9,6 +9,9 @@ public class Main {
         System.out.println("Float minimum value = " + myMinFloatValue);
         System.out.println("Float maximum value = " +myMaxFloatValue);
 
+        double myMinDoubleValue = Double.MIN_VALUE;
+        System.out.println("Double minimum value = " + myMinDoubleValue);
+
 
         
     }
